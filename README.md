@@ -20,6 +20,12 @@
   • <a href="#license">License</a>
 </p>
 
+<p>
+    <a href="https://play.google.com/store/apps/details?id=com.sahil.skywalkers.simon">
+        <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png">
+        Download From Google Play Store
+    </a>
+</p>
 
 ## About
 
@@ -55,6 +61,9 @@ Sigma-Simon use a different open source project:
 
 
 
+## License
+
+Unless covered under some other license, all content in this repository is shared under an Apache license. See [license.md](./license.md) for details.
 
 
 # Show some ❤️ and star the repo to support the project
@@ -68,9 +77,6 @@ Designed And Developed By
 ----
 Sahil Verma
 
-## License
-
-Unless covered under some other license, all content in this repository is shared under an Apache license. See [license.md](./license.md) for details.
 
 
 
@@ -86,7 +92,8 @@ Unless covered under some other license, all content in this repository is share
 
 
 
-[Picasso]: <https://github.com/bumptech/glide>
+
+[Glide]: <https://github.com/bumptech/glide>
 [Circleimageview]: <https://github.com/hdodenhof/CircleImageView>
 [lottie]: <https://lottiefiles.com/>
 
