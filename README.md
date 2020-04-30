@@ -20,10 +20,9 @@
   • <a href="#license">License</a>
 </p>
 
-<p>
+<palign="center">
     <a href="https://play.google.com/store/apps/details?id=com.sahil.skywalkers.simon">
         <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png">
-        Download From Google Play Store
     </a>
 </p>
 
@@ -34,7 +33,7 @@ If you press a wrong key then the game is over.
 We introduce you to 3 levels Child, Rock, Master based on different speed options.
 
 
-##Contribute
+## Contribute
 
 This app can have more features you can fork and contribute to it.
 
@@ -42,7 +41,7 @@ This app can have more features you can fork and contribute to it.
 
 
 
-#Screen-Shots
+# Screen-Shots
 
 ![2nd (1)](https://user-images.githubusercontent.com/25553339/80711616-46b08d00-8b0e-11ea-847e-24fdc07a4260.JPG)
 
