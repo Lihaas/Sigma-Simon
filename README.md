@@ -20,7 +20,7 @@
   • <a href="#license">License</a>
 </p>
 
-<palign="center">
+<p align="center">
     <a href="https://play.google.com/store/apps/details?id=com.sahil.skywalkers.simon">
         <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png">
     </a>
