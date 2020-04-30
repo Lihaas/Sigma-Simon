@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="redDim">#BB0000</color>
+    <color name="greenDim">#009406</color>
+    <color name="blueDim">#2100AB</color>
+    <color name="yellowDim">#DCD500</color>
+
+    <color name="redOn">#FF0606</color>
+    <color name="greenOn">#00FF0A</color>
+    <color name="blueOn">#3100FF</color>
+    <color name="yellowOn">#FFF700</color>
+
+
+
+
+</resources>
